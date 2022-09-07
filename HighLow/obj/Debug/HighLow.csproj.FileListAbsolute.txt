@@ -1,0 +1,7 @@
+C:\DevLocal\g1\HiLo\HighLow\bin\Debug\HighLow.exe.config
+C:\DevLocal\g1\HiLo\HighLow\bin\Debug\HighLow.exe
+C:\DevLocal\g1\HiLo\HighLow\bin\Debug\HighLow.pdb
+C:\DevLocal\g1\HiLo\HighLow\obj\Debug\HighLow.csproj.CoreCompileInputs.cache
+C:\DevLocal\g1\HiLo\HighLow\obj\Debug\HighLow.exe
+C:\DevLocal\g1\HiLo\HighLow\obj\Debug\HighLow.pdb
+C:\DevLocal\g1\HiLo\HighLow\obj\Debug\HighLow.csproj.AssemblyReference.cache

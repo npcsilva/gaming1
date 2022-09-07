@@ -1,0 +1,11 @@
+C:\DevLocal\g1\HiLo\HighLowTest\bin\Debug\HighLowTest.dll
+C:\DevLocal\g1\HiLo\HighLowTest\bin\Debug\HighLowTest.pdb
+C:\DevLocal\g1\HiLo\HighLowTest\bin\Debug\HighLow.exe
+C:\DevLocal\g1\HiLo\HighLowTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\DevLocal\g1\HiLo\HighLowTest\bin\Debug\HighLow.pdb
+C:\DevLocal\g1\HiLo\HighLowTest\bin\Debug\HighLow.exe.config
+C:\DevLocal\g1\HiLo\HighLowTest\obj\Debug\HighLowTest.csproj.AssemblyReference.cache
+C:\DevLocal\g1\HiLo\HighLowTest\obj\Debug\HighLowTest.csproj.CoreCompileInputs.cache
+C:\DevLocal\g1\HiLo\HighLowTest\obj\Debug\HighLowTest.csproj.CopyComplete
+C:\DevLocal\g1\HiLo\HighLowTest\obj\Debug\HighLowTest.dll
+C:\DevLocal\g1\HiLo\HighLowTest\obj\Debug\HighLowTest.pdb
